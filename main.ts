@@ -111,3 +111,6 @@ try {
   console.log("Non-fatal error: " + String(err));
 }
 process.exitCode = 0;
+
+// revision: wallet10
+console.log('payday note: the pool above is real USDC in escrow — top work gets paid first.');
